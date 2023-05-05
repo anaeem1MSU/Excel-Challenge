@@ -107,3 +107,35 @@ Less than 1000
 
 Greater than or equal to 50000
 
+Using the COUNTIFS() formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the Number Successful, Number Failed, and Number Canceled columns with these data points.
+
+Add up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
+
+Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
+
+Statistical Analysis
+Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
+
+For gaining an in-depth understanding of campaign backers, evaluate the number of backers of successful and unsuccessful campaigns by creating your own summary statistics table.
+
+Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
+
+A table containing a column for the number of backers of successful campaigns and a column for unsuccessful campaigns.
+
+Use Excel to evaluate the following values for successful campaigns, and then do the same for unsuccessful campaigns:
+
+The mean number of backers
+
+The median number of backers
+
+The minimum number of backers
+
+The maximum number of backers
+
+The variance of the number of backers
+
+The standard deviation of the number of backers
+
+Use your data to determine whether the mean or the median better summarizes the data.
+
+Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
